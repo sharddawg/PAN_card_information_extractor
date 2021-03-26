@@ -1,4 +1,4 @@
-# Pan_card_information_extractor
+# PAN_card_information_extractor
 Extracts PAN card number and date of birth from image of PAN card. Google's Tesseract OCR engine, pytesseract, OpenCV, and regular expressions were used.
 
 Few notes :- 
